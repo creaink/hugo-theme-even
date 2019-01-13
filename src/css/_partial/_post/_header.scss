@@ -1,8 +1,10 @@
 .post-header {
   margin-bottom: 20px;
+  padding-bottom: 5px;
+  border-bottom: 1px dashed #e6e6e6;
 
   .post-title {
-    margin: 0;
+    margin: 5px 0px;
     font-size: $post-title-font-size;
     font-weight: $post-title-font-weight;
     font-family: $global-serif-font-family;

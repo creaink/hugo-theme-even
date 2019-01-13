@@ -138,13 +138,13 @@
   content: "\e60f";
 }
 .icon-link:before {
-  content: "\e909";
+  content: "\e90a";
 }
 
 /* Admonition Icon */
 /*
 .icon-chevron-down:before {
-  content: "\e908";
+  content: "\e909";
 }
 .icon-format-quote:before {
   content: "\e904";
@@ -189,3 +189,22 @@
   content: "\e906";
 }
 */
+
+.icon-label:before {
+  content: "\e900";
+}
+.icon-book:before {
+  content: "\e91f";
+}
+.icon-folder-open:before {
+  content: "\e930";
+}
+.icon-clock:before {
+  content: "\e94e";
+}
+.icon-calendar:before {
+  content: "\e953";
+}
+.icon-eye:before {
+  content: "\e9ce";
+}
